@@ -2,7 +2,7 @@
 #include "strh.h"
 #include "mac.h"
 #include "debug.h"
-#include "eeprom.h"
+#include "modified_eeprom.h"
 #include "vendor.h"
 
 typedef struct alias_t {
