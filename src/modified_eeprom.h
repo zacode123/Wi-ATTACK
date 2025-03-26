@@ -1,6 +1,6 @@
-#pragma once
-
 #include <EEPROM.h>
+
+#pragma once
 
 namespace eeprom {
     void begin();
