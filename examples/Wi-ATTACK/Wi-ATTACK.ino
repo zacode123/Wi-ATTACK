@@ -2,7 +2,7 @@
 #include "cli.h"
 #include "scan.h"
 #include "attack.h"
-#include "eeprom.h"
+#include "modified_eeprom.h"
 #include "alias.h"
 #include "ap.h"
 
