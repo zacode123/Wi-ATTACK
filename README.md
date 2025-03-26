@@ -7,7 +7,7 @@
 Before installing **Wi-ATTACK**, download the latest firmware:  
 
 1. **Go to my releases page:**  
-   - [Wi-ATTACK Releases](https://github.com/zacode123/wi-attack/releases)  
+   - [Wi-ATTACK Releases](https://github.com/zacode123/Wi-ATTACK/releases)  
 2. **Download the latest `.bin` file:**  
    - Find the latest release.  
    - Click on the `.bin` file to start the download.  
