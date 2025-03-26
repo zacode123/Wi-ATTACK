@@ -2,7 +2,7 @@
 
 ![Screenshot_2025-03-26-13-46-47-024_com miui gallery](https://github.com/user-attachments/assets/89a5eace-7fa9-4160-8e13-fcc354692c6d)
 
-This is a powerful esp8266 based wifi penetration tool library with a variety of features starting from **deauthentication**, **beacon spamming**, **probe requests**, **realtime wifi authentication monitoring**, **wifi scanning**, **packet monitoring** and much more. This project has a powerful **Command Line Interface(CLI)** and can be controlled via serial monitor.
+This is a **powerful esp8266 based wifi penetration tool library** with a variety of features starting from **deauthentication**, **beacon spamming**, **probe requests**, **realtime wifi authentication monitoring**, **wifi scanning**, **packet monitoring** and much more. This project has a powerful **Command Line Interface(CLI)** and can be controlled via serial monitor.
 
 ***Disclaimer**:This is a tool for educational purposes this is neither good nor bad, it depends on how you use this tool*
 
