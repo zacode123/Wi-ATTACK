@@ -8,6 +8,17 @@ This is a **powerful esp8266 based wifi penetration tool library** with a variet
 
 ---
 
+## 🛠️ Features  
+
+🔹 **Wi-Fi Scanning** – Detect nearby networks with detailed info  
+🔹 **Deauthentication Attacks** – Disconnect clients from networks  
+🔹 **Packet Sniffing** – Intercept and analyze wireless packets  
+🔹 **Beacon Spamming** – Create fake APs to test security  
+🔹 **Monitor Authentications** – Detect login attempts and handshakes  
+🔹 **Probe Requests** – Track devices searching for networks  
+
+---
+
 ## 📥 Downloading the `.bin` File  
 
 Before installing **Wi-ATTACK**, download the latest firmware:  
