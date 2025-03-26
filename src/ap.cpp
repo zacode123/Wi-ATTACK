@@ -148,7 +148,7 @@ namespace ap {
         debugln(ap_settings.pswd);
 
         debugF("Mode:      ");
-        debugln(ap_settings.pswd == '\0' ? "WPA2" : "Open");
+        debugln((ap_settings.pswd[0] == '\0') ? "WPA2" : "Open");
 
         debugF("Hidden:    ");
         debugln(strh::boolean(ap_settings.hidden));
